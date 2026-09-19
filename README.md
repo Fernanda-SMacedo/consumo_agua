@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Water](https://img.shields.io/badge/Sustentabilidade-%C3%81gua-00a8e8?style=for-the-badge&logo=waterdrop&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge)
 
 ## Sobre o Projeto
 
